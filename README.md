@@ -4,7 +4,9 @@ An interactive audiovisual experience controlled by a physical potentiometer via
 
 ## Demo
 
-<video src="IMG_6951.MOV" controls title="Demo Video"></video>
+https://github.com/adamismaking/WebSerialKnob/assets/IMG_6951.MOV
+
+[Watch the Demo Video](IMG_6951.MOV)
 
 ## Features
 - **Physical Control:** Adjust the particle field's radius, speed, and noise influence using a potentiometer.
