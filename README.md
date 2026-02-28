@@ -4,7 +4,9 @@ An interactive audiovisual experience controlled by a physical potentiometer via
 
 ## Demo
 
-![Demo Video](IMG_6951.MOV)
+<video src="IMG_6951.MOV" controls="controls" style="max-width: 100%; height: auto;">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 - **Physical Control:** Adjust the particle field's radius, speed, and noise influence using a potentiometer.
