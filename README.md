@@ -4,7 +4,6 @@ An interactive audiovisual experience controlled by a physical potentiometer via
 
 ## Demo
 
-https://github.com/adamismaking/WebSerialKnob/assets/IMG_6951.MOV
 
 [Watch the Demo Video](IMG_6951.MOV)
 
