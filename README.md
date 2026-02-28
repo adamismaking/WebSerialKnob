@@ -4,7 +4,7 @@ An interactive audiovisual experience controlled by a physical potentiometer via
 
 ## Demo
 
-<video src="IMG_6951.MOV" controls="controls" style="max-width: 100%; height: auto;">
+<video src="https://github.com/adamismaking/WebSerialKnob/raw/main/IMG_6951.MOV" controls="controls" style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
 
